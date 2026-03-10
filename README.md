@@ -1,3 +1,3 @@
 - Frontend Developer | Vue3 + TS关注工程化、性能优化、前端监控致力于高质量 Web 应用开发
-- AICoding  Agent开发 
-- 两段实习均从事AI应用开发领域
+- AICoding openSpec
+- Agent开发 
