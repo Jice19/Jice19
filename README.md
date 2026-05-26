@@ -1,3 +1,3 @@
-Passionate Frontend Engineer skilled in Vue3 & React & TypeScript.
-Dedicate to engineering practice, web performance and monitoring system.
-Also exploring AI Agent & AICoding development.
+- Passionate Frontend Engineer skilled in Vue3 & React & TypeScript.
+- Dedicate to engineering practice, web performance and monitoring system.
+- Also exploring AI Agent & AICoding development.
