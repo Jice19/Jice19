@@ -1,3 +1,3 @@
-- Frontend Developer | Vue3 + TS关注工程化、性能优化、前端监控致力于高质量 Web 应用开发
-- AICoding openSpec
-- Agent开发 
+Passionate Frontend Engineer skilled in Vue3 & React & TypeScript.
+Dedicate to engineering practice, web performance and monitoring system.
+Also exploring AI Agent & AICoding development.
