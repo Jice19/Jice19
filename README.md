@@ -1,3 +1,4 @@
 - Passionate Frontend Engineer skilled in Vue3 & React & TypeScript & Golang
 - Dedicate to engineering practice, web performance and monitoring system.
 - Also exploring AI Agent & AICoding development.
+- Java-Backend Studing ...
